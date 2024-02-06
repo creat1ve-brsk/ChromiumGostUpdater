@@ -1,0 +1,1 @@
+https://github.com/deemru/Chromium-Gost/releases/download/121.0.6167.85/chromium-gost-121.0.6167.85-windows-386.zip
