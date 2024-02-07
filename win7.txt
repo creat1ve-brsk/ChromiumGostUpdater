@@ -1,1 +1,0 @@
-https://github.com/deemru/Chromium-Gost/releases/download/109.0.5414.173/chromium-gost-109.0.5414.173-windows-386.zip
